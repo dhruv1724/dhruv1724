@@ -50,60 +50,43 @@ A full-stack SaaS application that generates complete, production-ready websites
 
 ---
 
-## Technical Skills
+## 💻 Tech Stack
 
 ### Programming Languages
-- Java  
-- C  
-- C++  
-- Python  
-- JavaScript  
-- TypeScript  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
-## Full Stack Development
-
 ### MERN Stack
-- **MongoDB** – Schema design and CRUD operations  
-- **Express.js** – REST API development and middleware handling  
-- **React.js** – Component-based UI development, hooks, state management  
-- **Node.js** – Backend logic and asynchronous request handling  
-
-Experience building applications with:
-- Authentication and authorization
-- RESTful APIs
-- CRUD functionality
-- Frontend–Backend integration using Axios
-- Input validation and error handling
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
 ### PERN Stack (Used in SiteBuilder)
-- PostgreSQL – Relational schema design and structured data storage  
-- Prisma ORM – Type-safe database queries and migrations  
-- Express.js & Node.js – Backend architecture and API design  
-- React (Vite) + TypeScript – Frontend development  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
-## Databases
-- PostgreSQL (Neon DB)  
-- MongoDB  
+### Payments & AI
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
-## Payment & AI Integration
-- Stripe Checkout  
-- Stripe Webhooks  
-- OpenAI / KwaiPilot API integration  
-- Prompt engineering and AI response handling  
-
----
-
-## Version Control
-- Git  
-- GitHub  
+### Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
