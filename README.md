@@ -95,9 +95,8 @@ A full-stack SaaS application that generates complete, production-ready websites
 Actively practicing Data Structures and Algorithms to strengthen core computer science fundamentals.
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Dhruv1724?theme=light&font=Baloo" />
+  <img src="https://leetcode-stats-six.vercel.app/api?username=Dhruv1724&theme=dark" height="200"/>
 </p>
-
 ---
 
 ## GitHub Activity
