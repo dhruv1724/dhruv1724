@@ -103,7 +103,7 @@ Actively practicing Data Structures and Algorithms to strengthen core computer s
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruv1724&show_icons=true&theme=default" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv1724&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruv1724&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=dhruv1724&theme=github-dark&hide_border=true" height="160"/>
 </p>
+<img src="https://github-profile-trophy.vercel.app/?username=dhruv1724&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
