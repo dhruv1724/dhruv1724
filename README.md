@@ -104,3 +104,14 @@ Actively practicing Data Structures and Algorithms to strengthen core computer s
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhruv1724&theme=tokyonight" />
 </p>
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dhruv1724&theme=tokyonight&hide_border=true" />
+</p>
+
+## 📊 Total Contributions
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=dhruv1724&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
