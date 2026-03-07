@@ -62,7 +62,7 @@ A full-stack SaaS application that generates complete, production-ready websites
 
 ---
 
-### MERN Stack
+### MERN Stack (Used in IntervoX )
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
